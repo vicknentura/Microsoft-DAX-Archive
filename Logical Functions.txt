@@ -1,0 +1,43 @@
+AND	
+Checks whether both arguments are TRUE, and returns TRUE if both arguments are TRUE.
+
+BITAND	
+Returns a bitwise 'AND' of two numbers.
+
+BITLSHIFT
+Returns a number shifted left by the specified number of bits.
+
+BITOR	
+Returns a bitwise 'OR' of two numbers.
+
+BITRSHIFT	
+Returns a number shifted right by the specified number of bits.
+
+BITXOR	
+Returns a bitwise 'XOR' of two numbers.
+
+COALESCE	
+Returns the first expression that does not evaluate to BLANK.
+
+FALSE	
+Returns the logical value FALSE.
+
+IF	
+Checks a condition, and returns one value when TRUE, otherwise it returns a second value.
+
+IF.EAGER	
+Checks a condition, and returns one value when TRUE, otherwise it returns a second value. Uses an eager execution plan which always executes the branch expressions regardless of the condition expression.
+
+IFERROR	
+Evaluates an expression and returns a specified value if the expression returns an error
+
+NOT	
+Changes FALSE to TRUE, or TRUE to FALSE.
+
+OR	
+Checks whether one of the arguments is TRUE to return TRUE.
+
+SWITCH	
+Evaluates an expression against a list of values and returns one of multiple possible result expressions.
+
+TRUE	Returns the logical value TRUE.
