@@ -1,0 +1,62 @@
+COMBINEVALUES	
+Joins two or more text strings into one text string.
+
+CONCATENATE	
+Joins two text strings into one text string.
+
+CONCATENATEX	
+Concatenates the result of an expression evaluated for each row in a table.
+
+EXACT	
+Compares two text strings and returns TRUE if they are exactly the same, FALSE otherwise.
+
+FIND	
+Returns the starting position of one text string within another text string.
+
+FIXED	
+Rounds a number to the specified number of decimals and returns the result as text.
+
+FORMAT	
+Converts a value to text according to the specified format.
+
+LEFT	
+Returns the specified number of characters from the start of a text string.
+
+LEN	
+Returns the number of characters in a text string.
+
+LOWER	
+Converts all letters in a text string to lowercase.
+
+MID	
+Returns a string of characters from the middle of a text string, given a starting position and length.
+
+REPLACE	
+Replaces part of a text string, based on the number of characters you specify, with a different text string.
+
+REPT	
+Repeats text a given number of times.
+
+RIGHT	
+Returns the last character or characters in a text string, based on the number of characters you specify.
+
+SEARCH	
+Returns the number of the character at which a specific character or text string is first found, reading left to right.
+
+SUBSTITUTE	
+Replaces existing text with new text in a text string.
+
+TRIM	
+Removes all spaces from text except for single spaces between words.
+
+UNICHAR	
+Returns the Unicode character referenced by the numeric value.
+
+UNICODE	
+Returns the numeric code corresponding to the first character of the text string.
+
+UPPER	
+Converts a text string to all uppercase letters.
+
+VALUE	
+Converts a text string that represents a number to a number.
