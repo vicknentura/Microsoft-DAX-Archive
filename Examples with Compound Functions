@@ -1,0 +1,8 @@
+=MATCH(G2, 'Cancellations'!$A$2:$A$21, 0)
+* G2: This is the value you are trying to find in the 'Cancellations'!$A$2:$A$21 range.
+* 'Cancellations'!$A$2:$A$21: This is the range where you are looking for the value from G2.
+
+=IFERROR(MATCH(G2, 'Cancellations'!$A$2:$A$21, 0), "Not Found")
+
+
+=IFERROR(INDEX('Cancellations'!$B$2:$B$21, MATCH(G2, 'Cancellations'!$A$2:$A$21, 0)), "Not Found")
