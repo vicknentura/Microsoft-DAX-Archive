@@ -1,0 +1,95 @@
+COLUMNSTATISTICS	
+Returns a table of statistics regarding every column in every table in the model.
+
+CONTAINS	
+Returns true if values for all referred columns exist, or are contained, in those columns; otherwise, the function returns false.
+
+CONTAINSROW	
+Returns TRUE if a row of values exists or contained in a table, otherwise returns FALSE.
+
+CONTAINSSTRING	
+Returns TRUE or FALSE indicating whether one string contains another string.
+
+CONTAINSSTRINGEXACT	
+Returns TRUE or FALSE indicating whether one string contains another string.
+
+CUSTOMDATA	
+Returns the content of the CustomData property in the connection string.
+
+HASONEFILTER	
+Returns TRUE when the number of directly filtered values on columnName is one; otherwise returns FALSE.
+
+HASONEVALUE	
+Returns TRUE when the context for columnName has been filtered down to one distinct value only. Otherwise is FALSE.
+
+ISAFTER	
+A boolean function that emulates the behavior of a Start At clause and returns true for a row that meets all of the condition parameters.
+
+ISBLANK	
+Checks whether a value is blank, and returns TRUE or FALSE.
+
+ISCROSSFILTERED	
+Returns TRUE when columnName or another column in the same or related table is being filtered.
+
+ISEMPTY	
+Checks if a table is empty.
+
+ISERROR	
+Checks whether a value is an error, and returns TRUE or FALSE.
+
+ISEVEN	
+Returns TRUE if number is even, or FALSE if number is odd.
+
+ISFILTERED	
+Returns TRUE when columnName is being filtered directly.
+
+ISINSCOPE	
+Returns true when the specified column is the level in a hierarchy of levels.
+
+ISLOGICAL	
+Checks whether a value is a logical value, (TRUE or FALSE), and returns TRUE or FALSE.
+
+ISNONTEXT	
+Checks if a value is not text (blank cells are not text), and returns TRUE or FALSE.
+
+ISNUMBER	
+Checks whether a value is a number, and returns TRUE or FALSE.
+
+ISODD	
+Returns TRUE if number is odd, or FALSE if number is even.
+
+ISONORAFTER	
+A boolean function that emulates the behavior of a Start At clause and returns true for a row that meets all of the condition parameters.
+
+ISSELECTEDMEASURE	
+Used by expressions for calculation items to determine the measure that is in context is one of those specified in a list of measures.
+
+ISSUBTOTAL	
+Creates another column in a SUMMARIZE expression that returns True if the row contains subtotal values for the column given as argument, otherwise returns False.
+
+ISTEXT	
+Checks if a value is text, and returns TRUE or FALSE.
+
+NONVISUAL	
+Marks a value filter in a SUMMARIZECOLUMNS expression as non-visual.
+
+SELECTEDMEASURE	
+Used by expressions for calculation items to reference the measure that is in context.
+
+SELECTEDMEASUREFORMATSTRING	
+Used by expressions for calculation items to retrieve the format string of the measure that is in context.
+
+SELECTEDMEASURENAME	
+Used by expressions for calculation items to determine the measure that is in context by name.
+
+USERCULTURE	
+Returns the locale for the current user.
+
+USERNAME	
+Returns the domain name and username from the credentials given to the system at connection time.
+
+USEROBJECTID	
+Returns the current user's Object ID or SID.
+
+USERPRINCIPALNAME	
+Returns the user principal name.
