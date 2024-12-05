@@ -1,0 +1,98 @@
+CLOSINGBALANCEMONTH	
+Evaluates the expression at the last date of the month in the current context.
+
+CLOSINGBALANCEQUARTER	
+Evaluates the expression at the last date of the quarter in the current context.
+
+CLOSINGBALANCEYEAR	
+Evaluates the expression at the last date of the year in the current context.
+
+DATEADD	
+Returns a table that contains a column of dates, shifted either forward or backward in time by the specified number of intervals from the dates in the current context.
+
+DATESBETWEEN	
+Returns a table that contains a column of dates that begins with a specified start date and continues until a specified end date.
+
+DATESINPERIOD	
+Returns a table that contains a column of dates that begins with a specified start date and continues for the specified number and type of date intervals.
+
+DATESMTD	
+Returns a table that contains a column of the dates for the month to date, in the current context.
+
+DATESQTD	
+Returns a table that contains a column of the dates for the quarter to date, in the current context.
+
+DATESYTD	
+Returns a table that contains a column of the dates for the year to date, in the current context.
+
+ENDOFMONTH	
+Returns the last date of the month in the current context for the specified column of dates.
+
+ENDOFQUARTER	
+Returns the last date of the quarter in the current context for the specified column of dates.
+
+ENDOFYEAR	
+Returns the last date of the year in the current context for the specified column of dates.
+
+FIRSTDATE	
+Returns the first date in the current context for the specified column of dates.
+
+LASTDATE	
+Returns the last date in the current context for the specified column of dates.
+
+NEXTDAY	
+Returns a table that contains a column of all dates from the next day, based on the first date specified in the dates column in the current context.
+
+NEXTMONTH	
+Returns a table that contains a column of all dates from the next month, based on the first date in the dates column in the current context.
+
+NEXTQUARTER	
+Returns a table that contains a column of all dates in the next quarter, based on the first date specified in the dates column, in the current context.
+
+NEXTYEAR	
+Returns a table that contains a column of all dates in the next year, based on the first date in the dates column, in the current context.
+
+OPENINGBALANCEMONTH	
+Evaluates the expression at the first date of the month in the current context.
+
+OPENINGBALANCEQUARTER	
+Evaluates the expression at the first date of the quarter, in the current context.
+
+OPENINGBALANCEYEAR	
+Evaluates the expression at the first date of the year in the current context.
+
+PARALLELPERIOD	
+Returns a table that contains a column of dates that represents a period parallel to the dates in the specified dates column, in the current context, with the dates shifted a number of intervals either forward in time or back in time.
+
+PREVIOUSDAY	
+Returns a table that contains a column of all dates representing the day that is previous to the first date in the dates column, in the current context.
+
+PREVIOUSMONTH	
+Returns a table that contains a column of all dates from the previous month, based on the first date in the dates column, in the current context.
+
+PREVIOUSQUARTER	
+Returns a table that contains a column of all dates from the previous quarter, based on the first date in the dates column, in the current context.
+
+PREVIOUSYEAR	
+Returns a table that contains a column of all dates from the previous year, given the last date in the dates column, in the current context.
+
+SAMEPERIODLASTYEAR	
+Returns a table that contains a column of dates shifted one year back in time from the dates in the specified dates column, in the current context.
+
+STARTOFMONTH	
+Returns the first date of the month in the current context for the specified column of dates.
+
+STARTOFQUARTER	
+Returns the first date of the quarter in the current context for the specified column of dates.
+
+STARTOFYEAR	
+Returns the first date of the year in the current context for the specified column of dates.
+
+TOTALMTD	
+Evaluates the value of the expression for the month to date, in the current context.
+
+TOTALQTD	
+Evaluates the value of the expression for the dates in the quarter to date, in the current context.
+
+TOTALYTD	
+Evaluates the year-to-date value of the expression in the current context.
