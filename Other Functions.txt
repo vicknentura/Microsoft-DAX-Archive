@@ -1,0 +1,14 @@
+BLANK	
+Returns a blank.
+
+ERROR	
+Raises an error with an error message.
+
+EVALUATEANDLOG	
+Returns the value of the first argument and logs it in a DAX Evaluation Log profiler event.
+
+TOCSV	
+Returns a table as a string in CSV format.
+
+TOJSON	
+Returns a table as a string in JSON format.
