@@ -1,0 +1,128 @@
+BETA.DIST	
+Returns the beta distribution.
+
+BETA.INV	
+Returns the inverse of the beta cumulative probability density function (BETA.DIST).
+
+CHISQ.DIST	
+Returns the chi-squared distribution.
+
+CHISQ.DIST.RT	
+Returns the right-tailed probability of the chi-squared distribution.
+
+CHISQ.INV	
+Returns the inverse of the left-tailed probability of the chi-squared distribution.
+
+CHISQ.INV.RT	
+Returns the inverse of the right-tailed probability of the chi-squared distribution.
+
+COMBIN	
+Returns the number of combinations for a given number of items.
+
+COMBINA	
+Returns the number of combinations (with repetitions) for a given number of items.
+
+CONFIDENCE.NORM	
+The confidence interval is a range of values.
+
+CONFIDENCE.T	
+Returns the confidence interval for a population mean, using a Student's t distribution.
+
+EXPON.DIST	
+Returns the exponential distribution.
+
+GEOMEAN	
+Returns the geometric mean of the numbers in a column.
+
+GEOMEANX	
+Returns the geometric mean of an expression evaluated for each row in a table.
+
+LINEST	
+Uses the Least Squares method to calculate a straight line that best fits the given data.
+
+LINESTX	
+Uses the Least Squares method to calculate a straight line that best fits the given data. The data result from expressions evaluated for each row in a table.
+
+MEDIAN	
+Returns the median of numbers in a column.
+
+MEDIANX	
+Returns the median number of an expression evaluated for each row in a table.
+
+NORM.DIST	
+Returns the normal distribution for the specified mean and standard deviation.
+
+NORM.INV	
+The inverse of the normal cumulative distribution for the specified mean and standard deviation.
+
+NORM.S.DIST	
+Returns the standard normal distribution (has a mean of zero and a standard deviation of one).
+
+NORM.S.INV	
+Returns the inverse of the standard normal cumulative distribution.
+
+PERCENTILE.EXC	
+Returns the k-th percentile of values in a range, where k is in the range 0..1, exclusive.
+
+PERCENTILE.INC	
+Returns the k-th percentile of values in a range, where k is in the range 0..1, inclusive.
+
+PERCENTILEX.EXC	
+Returns the percentile number of an expression evaluated for each row in a table.
+
+PERCENTILEX.INC	
+Returns the percentile number of an expression evaluated for each row in a table.
+
+PERMUT	
+Returns the number of permutations for a given number of objects that can be selected from number objects.
+
+POISSON.DIST	
+Returns the Poisson distribution.
+
+RANK.EQ	
+Returns the ranking of a number in a list of numbers.
+
+RANKX	
+Returns the ranking of a number in a list of numbers for each row in the table argument.
+
+SAMPLE	
+Returns a sample of N rows from the specified table.
+
+STDEV.P	
+Returns the standard deviation of the entire population.
+
+STDEV.S	
+Returns the standard deviation of a sample population.
+
+STDEVX.P	
+Returns the standard deviation of the entire population.
+
+STDEVX.S	
+Returns the standard deviation of a sample population.
+
+T.DIST	
+Returns the Student's left-tailed t-distribution.
+
+T.DIST.2T	
+Returns the two-tailed Student's t-distribution.
+
+T.DIST.RT	
+Returns the right-tailed Student's t-distribution.
+
+T.INV	
+Returns the left-tailed inverse of the Student's t-distribution.
+
+T.INV.2t	
+Returns the two-tailed inverse of the Student's t-distribution.
+
+VAR.P	
+Returns the variance of the entire population.
+
+VAR.S	
+Returns the variance of a sample population.
+
+VARX.P	
+Returns the variance of the entire population.
+
+VARX.S	
+Returns the variance of a sample population.
