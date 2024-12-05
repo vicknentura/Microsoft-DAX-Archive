@@ -1,0 +1,141 @@
+ABS	
+Returns the absolute value of a number.
+
+ACOS	
+Returns the arccosine, or inverse cosine, of a number.
+
+ACOSH	
+Returns the inverse hyperbolic cosine of a number.
+
+ACOT	
+Returns the arccotangent, or inverse cotangent, of a number.
+
+ACOTH	
+Returns the inverse hyperbolic cotangent of a number.
+
+ASIN	
+Returns the arcsine, or inverse sine, of a number.
+
+ASINH	
+Returns the inverse hyperbolic sine of a number.
+
+ATAN	
+Returns the arctangent, or inverse tangent, of a number.
+
+ATANH	
+Returns the inverse hyperbolic tangent of a number.
+
+CEILING	
+Rounds a number up, to the nearest integer or to the nearest multiple of significance.
+
+CONVERT	
+Converts an expression of one data type to another.
+
+COS	
+Returns the cosine of the given angle.
+
+COSH	
+Returns the hyperbolic cosine of a number.
+
+COT	
+Returns the cotangent of an angle specified in radians.
+
+COTH	
+Returns the hyperbolic cotangent of a hyperbolic angle.
+
+CURRENCY	
+Evaluates the argument and returns the result as currency data type.
+
+DEGREES	
+Converts radians into degrees.
+
+DIVIDE	
+Performs division and returns alternate result or BLANK() on division by 0.
+
+EVEN	
+Returns number rounded up to the nearest even integer.
+
+EXP	
+Returns e raised to the power of a given number.
+
+FACT	
+Returns the factorial of a number, equal to the series 1*2*3*...* , ending in the given number.
+
+FLOOR	
+Rounds a number down, toward zero, to the nearest multiple of significance.
+
+GCD	
+Returns the greatest common divisor of two or more integers.
+
+INT	
+Rounds a number down to the nearest integer.
+
+ISO.CEILING	
+Rounds a number up, to the nearest integer or to the nearest multiple of significance.
+
+LCM	
+Returns the least common multiple of integers.
+
+LN	
+Returns the natural logarithm of a number.
+
+LOG	
+Returns the logarithm of a number to the base you specify.
+
+LOG10	
+Returns the base-10 logarithm of a number.
+
+MOD	
+Returns the remainder after a number is divided by a divisor. The result always has the same sign as the divisor.
+
+MROUND	
+Returns a number rounded to the desired multiple.
+
+ODD	
+Returns number rounded up to the nearest odd integer.
+
+PI	
+Returns the value of Pi, 3.14159265358979, accurate to 15 digits.
+
+POWER	
+Returns the result of a number raised to a power.
+
+QUOTIENT	
+Performs division and returns only the integer portion of the division result.
+
+RADIANS	
+Converts degrees to radians.
+
+RAND	
+Returns a random number greater than or equal to 0 and less than 1, evenly distributed.
+
+RANDBETWEEN	
+Returns a random number in the range between two numbers you specify.
+
+ROUND	
+Rounds a number to the specified number of digits.
+
+ROUNDDOWN	
+Rounds a number down, toward zero.
+
+ROUNDUP	
+Rounds a number up, away from 0 (zero).
+
+SIGN	
+Determines the sign of a number, the result of a calculation, or a value in a column.
+
+SIN	
+Returns the sine of the given angle.
+
+SINH	
+Returns the hyperbolic sine of a number.
+
+SQRT	
+Returns the square root of a number.SQRTPI	Returns the square root of (number * pi).
+
+TAN	
+Returns the tangent of the given angle.
+
+TANH	Returns the hyperbolic tangent of a number.
+
+TRUNC	Truncates a number to an integer by removing the decimal, or fractional, part of the number.
