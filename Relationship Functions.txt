@@ -1,0 +1,11 @@
+CROSSFILTER	
+Specifies the cross-filtering direction to be used in a calculation for a relationship that exists between two columns.
+
+RELATED	
+Returns a related value from another table.
+
+RELATEDTABLE	
+Evaluates a table expression in a context modified by the given filters.
+
+USERELATIONSHIP	
+Specifies the relationship to be used in a specific calculation as the one that exists between columnName1 and columnName2.
